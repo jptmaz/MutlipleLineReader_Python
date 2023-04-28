@@ -1,0 +1,1 @@
+This is a sample text only to make sure that the connection between the local directory and the repository are working properly.
